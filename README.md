@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tacticSugar
-- 👀 I’m interested in webdev and tall girls with long toes
-- 🌱 I’m currently learning react
+- 👀 I’m interested in webdev and tall girls
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on project, that improves peoples lifes
 - 📫 How to reach me: @tacticSugar in tg
 
