@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 </div>
 
 <div>
-  <h2>You can find my <a href="https://tacticsugar.github.io/Resume/" target="_blank">resume here</a> or just contact me:</h2>
+  <h2>You can find my <a href="https://tacticsugar.github.io/Resume/" target="_blank" rel="noopener noreferrer">resume here</a> or just contact me:</h2>
 
   <a href="https://t.me/tacticsugar" target="_blank">
     <img alt="telegram" title="telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&color=555">
