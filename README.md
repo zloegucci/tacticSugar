@@ -43,9 +43,7 @@ Here are some ideas to get you started:
 <hr>
 <h2>:chart_with_upwards_trend: Activity statistics:</h2>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tacticSugar&theme=nord_dark)
-
-<br><br>
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tacticSugar&theme=nord_dark) -->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tacticSugar&theme=nord_dark)
 
@@ -62,7 +60,7 @@ Here are some ideas to get you started:
 <hr>
 
 <!-- <img src="https://my-github-activity.herokuapp.com/graph?username=tacticSugar&custom_title=My%20github%20activity&theme=redical" alt="My gitHub activities"> -->
-<img src="https://activity-graph.herokuapp.com/graph?username=tacticSugar&custom_title=My%20github%20activity&theme=redical" alt="My gitHub activities">
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=tacticSugar&custom_title=My%20github%20activity&theme=redical" alt="My gitHub activities"> -->
 
 <!-- [![tacticSugar's GitHub stats](https://github-readme-stats.vercel.app/api?username=tacticSugar)](https://github.com/anuraghazra/github-readme-stats) -->
 
