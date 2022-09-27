@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1> Hello! I'm Vladimir 🙋‍♂️</h1>
 <div>
-  <h2> "Middle frontend" course student at Yandex.Praktikum 🖥️ </h2>
+  <h2> "Middle frontend developer" course student at Yandex.Praktikum 🖥️ </h2>
   <img align="right" src="https://komarev.com/ghpvc/?username=tacticSugar&label=Profile%20Views&style=flat-square">
 </div>
 
