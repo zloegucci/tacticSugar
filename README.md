@@ -27,6 +27,7 @@ Here are some ideas to get you started:
   <img alt="HTML" title="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&color=555&logoColor=007ec6">
   <img alt="CSS" title="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&color=555&logoColor=007ec6">
   <img alt="JavaScript" title="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&color=555&logoColor=007ec6">
+  <img alt="TypeScript" title="TypeScript" src="https://img.shields.io/badge/TypeScript-F7DF1E?style=for-the-badge&logo=typescript&color=555&logoColor=007ec6">
   <img alt="PUG" title="PUG" src="https://img.shields.io/badge/pug-239120?style=for-the-badge&logo=pug&color=555&logoColor=007ec6">
   <img alt="SASS" title="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&color=555&logoColor=007ec6">
   <img alt="WEBPACK" title="WEBPACK" src="https://img.shields.io/badge/webpack-239120?style=for-the-badge&logo=webpack&color=555&logoColor=007ec6">
