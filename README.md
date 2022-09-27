@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1> Hello! I'm Vladimir 🙋‍♂️</h1>
 <div>
-  <h2> A self-taught front-end developer 🖥️ </h2>
+  <h2> "Middle frontend" course student at Yandex.Praktikum 🖥️ </h2>
   <img align="right" src="https://komarev.com/ghpvc/?username=tacticSugar&label=Profile%20Views&style=flat-square">
 </div>
 
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 </div>
 
 <div>
-  <h2>You can find my <a href="https://tacticsugar.github.io/Resume/" target="_blank" rel="noopener noreferrer">resume here</a> or just contact me:</h2>
+  <h2>You can always contact me by telegram:</h2>
 
   <a href="https://t.me/tacticsugar" target="_blank">
     <img alt="telegram" title="telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&color=555">
