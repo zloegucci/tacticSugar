@@ -1,4 +1,4 @@
-<h1> Hello! I'm Vladimir 🙋‍♂️</h1>
+<!-- <h1> Hello! I'm Vladimir 🙋‍♂️</h1>
 <div>
   <h2> "Middle frontend developer" course student at Yandex.Praktikum 🖥️ </h2>
   <img align="right" src="https://komarev.com/ghpvc/?username=tacticSugar&label=Profile%20Views&style=flat-square">
@@ -48,3 +48,30 @@
 <!-- [![tacticSugar's GitHub stats](https://github-readme-stats.vercel.app/api?username=tacticSugar)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- [![tacticSugar's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tacticSugar&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) -->
+ -->
+ 
+ # 🕷🕸🐞
+
+
+About me
+- Technologies: 
+  - React, Redux, Typescript
+  - Algorithms and data structures
+- Check my resume:
+  - [resume](https://drive.google.com/file/d/1kBTwnyvFpfVvC49lKbQ6uzmp0Ikygnq1/view?usp=sharing)
+- Contact me: [email](mailto:vladimir@balaian.ru) or [telegram](https://t.me/tacticsugar)
+
+<!--
+The question: can I use this comments as keywords to improve the SEO of my profile?
+
+Let's try:
+
+- Middle Frontend Developer
+- React developer
+- React expert
+- React Redux developer
+- Frontend enthusiast
+- Frontend developer
+
+Contact me if you read this: https://t.me/tacticsugar
+-->
