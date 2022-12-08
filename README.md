@@ -1,7 +1,8 @@
-# 🕷🕸🐞
+# 🦎🌴🍸
 
 
-About me
+Currently looking for job.
+
 - Technologies: 
   - React, Redux, Typescript
   - Algorithms and data structures
