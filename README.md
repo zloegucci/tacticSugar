@@ -6,7 +6,7 @@ Currently looking for job.
 - Technologies: 
   - React, Redux, Typescript
   - Algorithms and data structures
-- Check my [site](https://balaian.netlify.app/) - and my [resume](https://drive.google.com/file/d/1kBTwnyvFpfVvC49lKbQ6uzmp0Ikygnq1/view?usp=sharing)
+- Check my [site](https://balaian.netlify.app/) and my [resume](https://drive.google.com/file/d/1kBTwnyvFpfVvC49lKbQ6uzmp0Ikygnq1/view?usp=sharing)
 - Contact me: [email](mailto:vladimir@balaian.ru) or [telegram](https://t.me/tacticsugar)
 
 <!--
