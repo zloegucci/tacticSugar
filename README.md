@@ -1,7 +1,7 @@
 # 🦎🌴🍸
 
 
-Currently looking for job.
+Currently looking for job. Check my latest test-tasks below 👇
 
 - Technologies: 
   - React, Redux, Typescript
