@@ -1,8 +1,8 @@
 # 🦎🌴🍸
 
-- Technologies: 
-  - Typescript, NextJS
-  - Algorithms and data structures
+Technologies: 
+ - Typescript, NextJS
+ - Algorithms and data structures
 
 Contact me: [email](mailto:vladimir@balaian.ru) or [telegram](https://t.me/balaian)
 
